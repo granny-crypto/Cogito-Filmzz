@@ -1,0 +1,6 @@
+{
+  "name": "Flixr",
+  "description": "A clean, minimalist Swiss-designed movie streaming application with dynamic metadata search powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
